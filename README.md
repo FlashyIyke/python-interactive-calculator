@@ -1,8 +1,8 @@
 # python-interactive-calculator
 A simple interactive command-line calculator in Python with memory, error handling, and extended math operations.
-# 🧮 Python Interactive Calculator  
+#  Python Interactive Calculator  
 
-## 📌 Project Overview  
+##  Project Overview  
 This is a simple **command-line calculator** built in Python. It goes beyond the basic `+ - × ÷` operations by including:  
 - Exponentiation (x^y)  
 - Square root  
@@ -13,7 +13,7 @@ The calculator is interactive: after each calculation, it shows a menu and lets 
 
 ---
 
-## 🎯 Problem Statement  
+##  Problem Statement  
 Many beginner calculators stop after a single calculation, forcing the user to restart the program. I wanted to create a **lightweight, user-friendly calculator** that feels more like a real tool:  
 - Continuous usage (menu repeats).  
 - Stores past results (memory).  
@@ -23,17 +23,17 @@ This project demonstrates **modular programming, error handling, and user intera
 
 ---
 
-## ⚙️ Features  
-✅ Addition, subtraction, multiplication, division  
-✅ Power function (x^y)  
-✅ Square root function  
-✅ Memory (reuse last result by typing `mem`)  
-✅ Type `"exit"` anytime to quit  
-✅ Error handling for invalid inputs  
+##  Features  
+ Addition, subtraction, multiplication, division  
+ Power function (x^y)  
+ Square root function  
+ Memory (reuse last result by typing `mem`)  
+ Type `"exit"` anytime to quit  
+ Error handling for invalid inputs  
 
 ---
 
-## 🚀 How to Run  
+##  How to Run  
 
 1. Clone the repository:  
    ```bash
